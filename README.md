@@ -3,7 +3,7 @@
 - 👀 I’m interested in **data analytics, AI development, and sports betting models**
 - 🌱 I’m currently learning **web application development, Python for predictive analytics, and API integration**
 - 💞️ I’m looking to collaborate on **sports analysis projects, machine learning models, and data-driven applications**
-- 📫 How to reach me: **[Your email] or [Your LinkedIn Profile]**
+- 📫 How to reach me: carrico.william@yahoo.com.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I'm a big fan of predictive modeling for sports, and I also have a passion for refining UI/UX for data dashboards**
 
